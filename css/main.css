@@ -1,0 +1,26 @@
+.ss {
+height: 200px;
+width: 300px;
+border-radius: 25px;
+}
+
+h1 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+    color: #34495e;
+}
+
+h2 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+
+.nails {
+height: 200px;
+width: 300px;
+border-radius: 25px;
+border: solid 2px #3498db;
+}
+
+h1{
+	padding-top:200px;
+}
